@@ -1,9 +1,7 @@
 # Transcriptomics-Jaar-2
- 
-Welkom bij mijn Github-pagina Dewi ;)
 
-Marike Meijberg
-LBM2A - J2P4 - Transcriptomics
+Famke Brouwer
+LBM3 - J2P4 - Transcriptomics
 
 
 # Transcriptomics toont aan dat genen komen anders tot expressie bij patiënten met Rheumatoïde artitis 

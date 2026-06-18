@@ -45,6 +45,12 @@ Het volledige onderzoek werd uitgevoerd volgens de principes van data stewardshi
 ## Resultaten
 
 ### Volcanoplot van de genexpressie
+Figuur 1 toont een volcanoplot waarin de expressiegegevens van in totaal 29.407 genen zijn weergegeven. Een groot aantal genen ligt rond een log2-fold change van 0, wat aangeeft dat deze genen geen statistisch significante verandering in expressie laten zien tussen beide onderzoeksgroepen. De groene stippen geven de genen weer die significant wel verschillen van expressie. 
+
+<img src="Resultaten/Volcanoplot.png" width ="250" height ="350">
+Figuur 1: Volcanoplot toont de log2-fold change (x-as) tegen de -log10 p-waarde (y-as) voor alle gemeten genen (totaal: 29.407)
+
+**[Afbeelding vergroten 🔍](Resultaten/Volcanoplot.png)**
 
 
 ### GO-analyse

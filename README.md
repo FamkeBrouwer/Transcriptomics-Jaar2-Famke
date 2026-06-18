@@ -76,3 +76,10 @@ De resultaten laten zien dat de genexpressie bij patiënten met RA verschilt van
 Deze bevindingen werden verder ondersteund door de KEGG-analyse, waarin genen zoals *IL6*, *IL1β* en *MMP13* verhoogd tot expressie kwamen. Deze genen spelen een belangrijke rol bij ontstekingsreacties, kraakbeenafbraak en gewrichtsschade. Daarentegen vertoonden *TGFβ*, dat betrokken is bij immuunregulatie en weefselherstel, en *IL23*, dat een rol speelt bij de activatie van ontstekingsbevorderende T-cellen, een verlaagde expressie. Samen wijzen deze resultaten op een verstoring van de regulatie van ontstekingsprocessen bij RA.
 
 Dit onderzoek laat zien dat transcriptomics een waardevolle methode is om de moleculaire mechanismen achter RA beter te begrijpen. Aanvullend onderzoek met grotere patiëntengroepen en verschillende stadia van de ziekte wordt aanbevolen om de resultaten verder te bevestigen en mogelijk nieuwe biomarkers voor diagnose of behandeling te identificeren.
+
+
+## Bronnen
+Hall, B. E., Mazhar, K., Macdonald, E., Cassidy, M., Doty, M., Judkins, C., Terse, A., Shiers, S., Tadros, S., Yun, S., Burton, M. D., Price, T. J., & Kulkarni, A. (2024). Transcriptome Analysis of Rheumatoid Arthritis Uncovers Genes Linked to Inflammation-Induced Pain. Research Square. https://doi.org/10.21203/RS.3.RS-4218885/V1
+Kurkó, J., Besenyei, T., Laki, J., Glant, T. T., Mikecz, K., & Szekanecz, Z. (2013). Genetics of rheumatoid arthritis - a comprehensive review. Clinical Reviews in Allergy & Immunology, 45(2), 170–179. https://doi.org/10.1007/S12016-012-8346-7
+Sumitomo, S., Nagafuchi, Y., Tsuchida, Y., Tsuchiya, H., Ota, M., Ishigaki, K., Suzuki, A., Kochi, Y., Fujio, K., & Yamamoto, K. (2018). Transcriptome analysis of peripheral blood from patients with rheumatoid arthritis: a systematic review. Inflammation and Regeneration, 38(1), 21. https://doi.org/10.1186/S41232-018-0078-5
+ 

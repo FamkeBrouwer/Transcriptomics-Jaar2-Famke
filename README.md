@@ -54,9 +54,20 @@ Figuur 1: Volcanoplot toont de log2-fold change (x-as) tegen de -log10 p-waarde 
 
 
 ### GO-analyse
+Figuur 2 toont aan dat de genexpressie van genen die betrokken zijn bij de immuunrespons en andere biologische processen significant is veranderd.
+
+<img src="Resultaten/Go-analyse.pdf" width ="500" height ="350">
+Figuur 2: Barplot Go-analyse, toont aan bij welke processen meeste verandering in gen expressie is waargenomen. 
+
+**[Afbeelding vergroten 🔍](Resultaten/Go-anlyse.pdf)**
 
 
 ### Pathway-analyse 
+In figuur 3 zijn verschillende genen te zien die significant verschillend tot expressie komen tussen RA-patiënten en gezonde controles.
 
+<img src="Resultaten/hsa05323 pathview results.png" width ="500" height ="350">
+Figuur 3: KEGG pathview afbeelding, geeft duidelijk verhoogd (Rood) en verlaagde (Groen) activiteit van ontstekingsgenen weer.
+
+**[Afbeelding vergroten 🔍](Resultaten/hsa05323%20pathview%20results.png)**
 
 ## Conclusie 

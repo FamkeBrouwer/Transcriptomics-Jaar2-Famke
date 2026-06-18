@@ -10,11 +10,11 @@ LBM3 J3P4 Transcriptomics
 ## Inhoud/structuur
 
 - `Introductie` - inleiding en achtergrond van het onderzoek
-- 'Methode' - Beschrijving van de toegepaste analysemethoden
-- 'Scripts' - Scripts met aanvullende toelichting op de uitgevoerde analyses en methoden
-- 'Resultaten' - Weergave van de resultaten, waaronder de volcano plot, GO-analyse en KEGG-analyse 
-- 'Bronnen' - Overzicht van de gebruikte bronnen
-- 'README.md' - Bestand waarmee de tekst hier is gegenereerd
+- `Methode` - Beschrijving van de toegepaste analysemethoden
+- `Scripts` - Scripts met aanvullende toelichting op de uitgevoerde analyses en methoden
+- `Resultaten` - Weergave van de resultaten, waaronder de volcano plot, GO-analyse en KEGG-analyse 
+- `Bronnen` - Overzicht van de gebruikte bronnen
+- `README.md` - Bestand waarmee de tekst hier is gegenereerd
 
 
 ---
@@ -36,3 +36,8 @@ Om verschillen in genexpressie tussen de RA-groep en de controlegroep te identif
 Vervolgens werd met het R-pakket *goseq* onderzocht welke biologische processen oververtegenwoordigd waren onder de differentieel tot expressie gebrachte genen. Deze processen (GO-termen) kunnen inzicht geven in de biologische mechanismen die betrokken zijn bij RA en werden gevisualiseerd met behulp van ggplot2. Aansluitend werd een KEGG-analyse uitgevoerd om de betrokken biochemische pathways verder te onderzoeken. De resultaten hiervan werden gevisualiseerd met behulp van pathview.
 
 Het volledige onderzoek werd uitgevoerd volgens de principes van data stewardship, waarbij aandacht is besteed aan een overzichtelijke mappenstructuur, transparantie van de analyses en reproduceerbaarheid van de resultaten.
+
+**[Klik hier voor het volledige script](Scripts/Script%20R%20Casus.R)**
+  
+
+[![Klik hier voor het volledige script](https://img.shields.io/badge/Script_R_Casus-pink?style=flat&logo=R&logoColor=white)](Scripts/Script%20R%20Casus.R)

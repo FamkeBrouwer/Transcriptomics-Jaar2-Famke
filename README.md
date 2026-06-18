@@ -41,3 +41,17 @@ Het volledige onderzoek werd uitgevoerd volgens de principes van data stewardshi
   
 
 [![Klik hier voor het volledige script](https://img.shields.io/badge/Script_R_Casus-pink?style=flat&logo=R&logoColor=white)](Script%20R%20casus%20rheumato%C3%AFde%20artitis.R)
+
+
+## Resultaten
+
+### Volcanoplot van de genexpressie
+
+
+### GO-analyse
+
+
+### Pathway-analyse 
+
+
+## Conclusie 

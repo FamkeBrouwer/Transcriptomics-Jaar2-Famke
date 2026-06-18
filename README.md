@@ -54,7 +54,7 @@ Figuur 1: Volcanoplot toont de log2-fold change (x-as) tegen de -log10 p-waarde 
 
 
 ### GO-analyse
-Figuur 2 toont aan dat de genexpressie van genen die betrokken zijn bij de immuunrespons en andere biologische processen significant is veranderd.
+Figuur 2 toont aan dat de genexpressie van genen die betrokken zijn bij de immuunrespons en andere biologische processen significant is veranderd. 
 
 <img src="Resultaten/Go-analyse.pdf" width ="500" height ="350">
 Figuur 2: Barplot Go-analyse, toont aan bij welke processen meeste verandering in gen expressie is waargenomen. 
@@ -63,11 +63,16 @@ Figuur 2: Barplot Go-analyse, toont aan bij welke processen meeste verandering i
 
 
 ### Pathway-analyse 
-In figuur 3 zijn verschillende genen te zien die significant verschillend tot expressie komen tussen RA-patiënten en gezonde controles.
+In figuur 3 zijn verschillende genen te zien die significant verschillend tot expressie komen tussen RA-patiënten en gezonde controles. Zo vertonen de genen IL6, IL1β en MMP13 een verhoogde expressie. Deze genen spelen een belangrijke rol bij ontstekingsreacties, kraakbeenafbraak en gewrichtsschade. Daarentegen laten genen zoals TGFβ, dat betrokken is bij immuunregulatie en weefselherstel, en IL23, dat een rol speelt bij de activatie van ontstekingsbevorderende T-cellen, een verlaagde expressie zien.
 
 <img src="Resultaten/hsa05323 pathview results.png" width ="500" height ="350">
-Figuur 3: KEGG pathview afbeelding, geeft duidelijk verhoogd (Rood) en verlaagde (Groen) activiteit van ontstekingsgenen weer.
+Figuur 3: KEGG Pathview-afbeelding die de verschillen in genexpressie laat zien. Rood geeft verhoogde expressie weer, terwijl groen verlaagde expressie aangeeft.
 
 **[Afbeelding vergroten 🔍](Resultaten/hsa05323%20pathview%20results.png)**
 
 ## Conclusie 
+De resultaten laten zien dat de genexpressie bij patiënten met reumatoïde artritis (RA) verschilt van die bij gezonde controles. Dit werd zichtbaar in de volcanoplot, waarin een groot aantal genen significant verschillend tot expressie kwam. De GO-analyse toonde vervolgens aan dat veel van deze genen betrokken zijn bij processen die samenhangen met de immuunrespons.
+
+Deze bevindingen werden verder ondersteund door de KEGG-analyse, waarin genen zoals *IL6*, *IL1β* en *MMP13* verhoogd tot expressie kwamen. Deze genen spelen een belangrijke rol bij ontstekingsreacties, kraakbeenafbraak en gewrichtsschade. Daarentegen vertoonden *TGFβ*, dat betrokken is bij immuunregulatie en weefselherstel, en *IL23*, dat een rol speelt bij de activatie van ontstekingsbevorderende T-cellen, een verlaagde expressie. Samen wijzen deze resultaten op een verstoring van de regulatie van ontstekingsprocessen bij RA.
+
+Dit onderzoek laat zien dat transcriptomics een waardevolle methode is om de moleculaire mechanismen achter RA beter te begrijpen. Aanvullend onderzoek met grotere patiëntengroepen en verschillende stadia van de ziekte wordt aanbevolen om de resultaten verder te bevestigen en mogelijk nieuwe biomarkers voor diagnose of behandeling te identificeren.

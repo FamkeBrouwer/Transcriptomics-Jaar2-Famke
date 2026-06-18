@@ -36,7 +36,7 @@ library(dplyr)
 library(Rsamtools)
 library(Rsubread)
 
-# Inlezen en filteren van GFF3-bestand
+# Inlezen en filteren van het GFF3-bestand
 gff <- read_tsv("reuma_data/Homo_sapiens.GRCh38.110.gtf.gz", comment = "#", col_names = FALSE)
 
 # Kolomnamen toevoegen

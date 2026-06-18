@@ -37,7 +37,7 @@ Vervolgens werd met het R-pakket *goseq* onderzocht welke biologische processen 
 
 Het volledige onderzoek werd uitgevoerd volgens de principes van data stewardship, waarbij aandacht is besteed aan een overzichtelijke mappenstructuur, transparantie van de analyses en reproduceerbaarheid van de resultaten.
 
-**[Klik hier voor het volledige script](Scripts/Script%20R%20Casus.R)**
+**[Klik hier voor het volledige script](Script%20R%20casus%20rheumatoïde artitis.R)**
   
 
 [![Klik hier voor het volledige script](https://img.shields.io/badge/Script_R_Casus-pink?style=flat&logo=R&logoColor=white)](Scripts/Script%20R%20Casus.R)

@@ -9,7 +9,7 @@ LBM3 J3P4 Transcriptomics
 
 ## Inhoud/structuur
 
-- 'Introductie' - inleiding en achtergrond van het onderzoek
+- `Introductie` - inleiding en achtergrond van het onderzoek
 - 'Methode' - Beschrijving van de toegepaste analysemethoden
 - 'Scripts' - Scripts met aanvullende toelichting op de uitgevoerde analyses en methoden
 - 'Resultaten' - Weergave van de resultaten, waaronder de volcano plot, GO-analyse en KEGG-analyse 

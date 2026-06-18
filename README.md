@@ -6,7 +6,7 @@ LBM3 J3P4 Transcriptomics
 
 # Met behulp van transcriptomics kan worden aangetoond dat de genexpressie bij patiënten met reumatoïde artritis verandert
 
-## Inhoud/structuur
+## Inhoud
 
 - `Introductie` - inleiding en achtergrond van het onderzoek
 - `Methode` - Beschrijving van de toegepaste analysemethoden

@@ -1,4 +1,4 @@
-setwd("C:/Users/meijb/OneDrive/Documenten/Marike R/Casus Transcriptomics/")
+setwd("C:/Users/famkebrouwer/OneDrive/Documenten/Famke R/Casus Transcriptomics/")
 getwd()
 
 unzip("Data_casus.zip", exdir = "reuma_data") 
@@ -9,7 +9,7 @@ library(BiocManager)
 BiocManager::install('Rsubread')
 library(Rsubread)
 
-setwd("C:/Users/meijb/OneDrive/Documenten/Marike R/Genooms/")
+setwd("C:/Users/famkebrouwer/OneDrive/Documenten/Famke R/Genooms/")
 
 buildindex(
   basename = 'ref_human',
@@ -18,14 +18,14 @@ buildindex(
   indexSplit = TRUE)
 getwd()
 
-align.human <- align(index = "C:/Users/meijb/OneDrive/Documenten/Marike R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785819_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785819_2_subset40k.fastq", output_file = "normaal1.BAM")
-align.human <- align(index = "C:/Users/meijb/OneDrive/Documenten/Marike R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785820_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785820_2_subset40k.fastq", output_file = "normaal2.BAM")
-align.human <- align(index = "C:/Users/meijb/OneDrive/Documenten/Marike R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785828_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785828_2_subset40k.fastq", output_file = "normaal3.BAM")
-align.human <- align(index = "C:/Users/meijb/OneDrive/Documenten/Marike R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785831_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785831_2_subset40k.fastq", output_file = "normaal4.BAM")
-align.human <- align(index = "C:/Users/meijb/OneDrive/Documenten/Marike R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785979_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785979_2_subset40k.fastq", output_file = "Reuma1.BAM")
-align.human <- align(index = "C:/Users/meijb/OneDrive/Documenten/Marike R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785980_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785980_2_subset40k.fastq", output_file = "Reuma2.BAM")
-align.human <- align(index = "C:/Users/meijb/OneDrive/Documenten/Marike R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785986_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785986_2_subset40k.fastq", output_file = "Reuma3.BAM")
-align.human <- align(index = "C:/Users/meijb/OneDrive/Documenten/Marike R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785988_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785988_2_subset40k.fastq", output_file = "Reuma4.BAM")
+align.human <- align(index = "C:/Users/famkebrouwer/OneDrive/Documenten/Famke R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785819_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785819_2_subset40k.fastq", output_file = "normaal1.BAM")
+align.human <- align(index = "C:/Users/famkebrouwer/OneDrive/Documenten/Famke R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785820_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785820_2_subset40k.fastq", output_file = "normaal2.BAM")
+align.human <- align(index = "C:/Users/famkebrouwer/OneDrive/Documenten/Famke R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785828_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785828_2_subset40k.fastq", output_file = "normaal3.BAM")
+align.human <- align(index = "C:/Users/famkebrouwer/OneDrive/Documenten/Famke R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785831_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785831_2_subset40k.fastq", output_file = "normaal4.BAM")
+align.human <- align(index = "C:/Users/famkebrouwer/OneDrive/Documenten/Famke R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785979_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785979_2_subset40k.fastq", output_file = "Reuma1.BAM")
+align.human <- align(index = "C:/Users/famkebrouwer/OneDrive/Documenten/Famke R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785980_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785980_2_subset40k.fastq", output_file = "Reuma2.BAM")
+align.human <- align(index = "C:/Users/famkebrouwer/OneDrive/Documenten/Famke R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785986_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785986_2_subset40k.fastq", output_file = "Reuma3.BAM")
+align.human <- align(index = "C:/Users/famkebrouwer/OneDrive/Documenten/Famke R/Genooms/ref_human", readfile1 = "reuma_data/Data_RA_raw/SRR4785988_1_subset40k.fastq", readfile2 = "reuma_data/Data_RA_raw/SRR4785988_2_subset40k.fastq", output_file = "Reuma4.BAM")
 
 BiocManager::install("readr")
 BiocManager::install("dplyr")

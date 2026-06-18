@@ -71,7 +71,7 @@ Figuur 3: KEGG Pathview-afbeelding die de verschillen in genexpressie laat zien.
 **[Afbeelding vergroten 🔍](Resultaten/hsa05323%20pathview%20results.png)**
 
 ## Conclusie 
-De resultaten laten zien dat de genexpressie bij patiënten met reumatoïde artritis (RA) verschilt van die bij gezonde controles. Dit werd zichtbaar in de volcanoplot, waarin een groot aantal genen significant verschillend tot expressie kwam. De GO-analyse toonde vervolgens aan dat veel van deze genen betrokken zijn bij processen die samenhangen met de immuunrespons.
+De resultaten laten zien dat de genexpressie bij patiënten met RA verschilt van die bij gezonde controles. Dit werd zichtbaar in de volcanoplot, waarin een groot aantal genen significant verschillend tot expressie kwam. De GO-analyse toonde vervolgens aan dat veel van deze genen betrokken zijn bij processen die samenhangen met de immuunrespons.
 
 Deze bevindingen werden verder ondersteund door de KEGG-analyse, waarin genen zoals *IL6*, *IL1β* en *MMP13* verhoogd tot expressie kwamen. Deze genen spelen een belangrijke rol bij ontstekingsreacties, kraakbeenafbraak en gewrichtsschade. Daarentegen vertoonden *TGFβ*, dat betrokken is bij immuunregulatie en weefselherstel, en *IL23*, dat een rol speelt bij de activatie van ontstekingsbevorderende T-cellen, een verlaagde expressie. Samen wijzen deze resultaten op een verstoring van de regulatie van ontstekingsprocessen bij RA.
 
